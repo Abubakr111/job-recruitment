@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import JobListing from './jobListing';
+import JobListing from './JobListing';
 import Spinner from './Spinner';
 
 
